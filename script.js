@@ -159,7 +159,7 @@ window.addEventListener("DOMContentLoaded", () => {
   }
 
   setStatus("Solicitando acceso a la cámara…");
-  start(true);
+setStatus("Haz clic en el botón 'Cámara' para comenzar.");
 });
 
 // ---------------------------------------------------------------------------
